@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">CoolDroid</string>
-    <string name="cooldroidcontentdescription">cooldroid image</string>
+    <string name="app_name" translatable="false">CoolDroid</string>
+    <string name="cooldroidcontentdescription" translatable="false">cooldroid image</string>
     <string name="txt_dont_touch">Don\'t touch the droid!</string>
     <string name="once">once</string>
     <string name="twice">twice</string>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_dont_touch">Greif ihn ja nicht an</string>
+    <string name="once">einmal</string>
+    <string name="twice">zwei mal</string>
+    <string name="text_view_numbers">Du hast ihn %1$d mal gedrückt</string>
+</resources>
